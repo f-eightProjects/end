@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Author : Saif Ali Khan
+
 # Ask for the GitHub username
 read -p "Enter GitHub username: " username
 
